@@ -10,20 +10,20 @@
         
     </channel>
     <item>
-        <title>Version 1.1</title>
+        <title>Version 1.2</title>
         <pubDate>Tue, 13 Jan 2026 22:11:20 +0530</pubDate>
-        <sparkle:version>1.1</sparkle:version>
-        <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+        <sparkle:version>1.2</sparkle:version>
+        <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
         <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
         <description><![CDATA[
-            <h2>What's New in Version 1.1</h2>
+            <h2>What's New in Version 1.2</h2>
             <ul>
                 <li>New monthly subscription</li>
                 <li>Improved settings page</li>
             </ul>
         ]]></description>
         <enclosure 
-            url="https://github.com/shebisabeen/stanza-mac-app-releases/releases/download/v1.1/Stanza-v1.1.zip"
+            url="https://github.com/shebisabeen/stanza-mac-app-releases/releases/download/v1.2/Stanza-v1.2.zip"
             sparkle:edSignature="lsuLGMCPinR4dEOU9LspN7MW61LGTYllIsNGhO51c7TvKaJ2Pgc4Fhexpr6kYvir/Nu/A7vGiAJzwQRgqqA4DQ=="
             length="2322713"
             type="application/octet-stream"
