@@ -10,21 +10,22 @@
         
     </channel>
     <item>
-        <title>Version 1.0.1</title>
-        <pubDate>Mon, 12 Dec 2026 16:19:00 +0530</pubDate>
-        <sparkle:version>1.0.1</sparkle:version>
-        <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+        <title>Version 1.1</title>
+        <pubDate>Tue, 13 Jan 2026 22:11:20 +0530</pubDate>
+        <sparkle:version>1.1</sparkle:version>
+        <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
         <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
         <description><![CDATA[
-            <h2>What's New in Version 1.0.1</h2>
+            <h2>What's New in Version 1.1</h2>
             <ul>
-                <li>Your changes here</li>
+                <li>New monthly subscription</li>
+                <li>Improved settings page</li>
             </ul>
         ]]></description>
         <enclosure 
-            url="https://github.com/shebisabeen/stanza-mac-app-releases/releases/download/v1.0.1/Stanza-v1.0.1.zip"
-            sparkle:edSignature="Lo+Ch6O4NKgFVFAudCpiuwmGnuD9SEPhrKkJuH9OF9WR94Blaj/ABWjqsWPzl2A4zQ26YBNkSNOyt9x5KiwGCA=="
-            length="1334900"
+            url="https://github.com/shebisabeen/stanza-mac-app-releases/releases/download/v1.1/Stanza-v1.1.zip"
+            sparkle:edSignature="lsuLGMCPinR4dEOU9LspN7MW61LGTYllIsNGhO51c7TvKaJ2Pgc4Fhexpr6kYvir/Nu/A7vGiAJzwQRgqqA4DQ=="
+            length="2322713"
             type="application/octet-stream"
         />
     </item>
