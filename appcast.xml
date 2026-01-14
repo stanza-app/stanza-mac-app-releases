@@ -5,49 +5,30 @@
         <link>https://raw.githubusercontent.com/shebisabeen/stanza-mac-app-releases/main/appcast.xml</link>
         <description>Stanza App Updates</description>
         
-    <!-- Version 1.2.1 - Build 5 -->
-    <item>
-        <title>Version 1.2.1</title>
-        <pubDate>Wed, 14 Jan 2026 07:01:08 +0530</pubDate>
-        <sparkle:version>5</sparkle:version>
-        <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
-        <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-        <description><![CDATA[
-            <h2>What's New in Version 1.2.1</h2>
-            <ul>
-                <li>Update release notes here</li>
-            </ul>
-        ]]></description>
-        <enclosure 
-            url="https://github.com/shebisabeen/stanza-mac-app-releases/releases/download/v1.2.1/Stanza-v1.2.1.zip"
-            sparkle:edSignature="lzNinoDTTnfqXposgXIC7GFzXahu4YiG1eudlGBV0XpGdJCtzvghCNw1kGVFn5ymqpQY6/C2jhqHDma+m4KMCw=="
-            length="2326274"
-            type="application/octet-stream"
-        />
-    </item>
-
+        <!-- Version 1.2.1 - Build 5 -->
         <item>
-    <!-- Version 1.2.1 - Build 5 -->
-    <item>
-        <title>Version 1.2.1</title>
-        <pubDate>Wed, 14 Jan 2026 07:01:08 +0530</pubDate>
-        <sparkle:version>5</sparkle:version>
-        <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
-        <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-        <description><![CDATA[
-            <h2>What's New in Version 1.2.1</h2>
-            <ul>
-                <li>Update release notes here</li>
-            </ul>
-        ]]></description>
-        <enclosure 
-            url="https://github.com/shebisabeen/stanza-mac-app-releases/releases/download/v1.2.1/Stanza-v1.2.1.zip"
-            sparkle:edSignature="lzNinoDTTnfqXposgXIC7GFzXahu4YiG1eudlGBV0XpGdJCtzvghCNw1kGVFn5ymqpQY6/C2jhqHDma+m4KMCw=="
-            length="2326274"
-            type="application/octet-stream"
-        />
-    </item>
-
+            <title>Version 1.2.1</title>
+            <pubDate>Wed, 14 Jan 2026 07:01:08 +0530</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Version 1.2.1</h2>
+                <ul>
+                    <li>Fixed update installer issue</li>
+                    <li>Properly configured app entitlements</li>
+                </ul>
+            ]]></description>
+            <enclosure 
+                url="https://github.com/shebisabeen/stanza-mac-app-releases/releases/download/v1.2.1/Stanza-v1.2.1.zip"
+                sparkle:edSignature="lzNinoDTTnfqXposgXIC7GFzXahu4YiG1eudlGBV0XpGdJCtzvghCNw1kGVFn5ymqpQY6/C2jhqHDma+m4KMCw=="
+                length="2326274"
+                type="application/octet-stream"
+            />
+        </item>
+        
+        <!-- Version 1.2 - Build 4 -->
+        <item>
             <title>Version 1.2</title>
             <pubDate>Tue, 13 Jan 2026 22:35:48 +0530</pubDate>
             <sparkle:version>4</sparkle:version>
@@ -69,49 +50,8 @@
             />
         </item>
         
-    <!-- Version 1.2.1 - Build 5 -->
-    <item>
-        <title>Version 1.2.1</title>
-        <pubDate>Wed, 14 Jan 2026 07:01:08 +0530</pubDate>
-        <sparkle:version>5</sparkle:version>
-        <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
-        <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-        <description><![CDATA[
-            <h2>What's New in Version 1.2.1</h2>
-            <ul>
-                <li>Update release notes here</li>
-            </ul>
-        ]]></description>
-        <enclosure 
-            url="https://github.com/shebisabeen/stanza-mac-app-releases/releases/download/v1.2.1/Stanza-v1.2.1.zip"
-            sparkle:edSignature="lzNinoDTTnfqXposgXIC7GFzXahu4YiG1eudlGBV0XpGdJCtzvghCNw1kGVFn5ymqpQY6/C2jhqHDma+m4KMCw=="
-            length="2326274"
-            type="application/octet-stream"
-        />
-    </item>
-
+        <!-- Version 1.1 - Build 3 -->
         <item>
-    <!-- Version 1.2.1 - Build 5 -->
-    <item>
-        <title>Version 1.2.1</title>
-        <pubDate>Wed, 14 Jan 2026 07:01:08 +0530</pubDate>
-        <sparkle:version>5</sparkle:version>
-        <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
-        <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-        <description><![CDATA[
-            <h2>What's New in Version 1.2.1</h2>
-            <ul>
-                <li>Update release notes here</li>
-            </ul>
-        ]]></description>
-        <enclosure 
-            url="https://github.com/shebisabeen/stanza-mac-app-releases/releases/download/v1.2.1/Stanza-v1.2.1.zip"
-            sparkle:edSignature="lzNinoDTTnfqXposgXIC7GFzXahu4YiG1eudlGBV0XpGdJCtzvghCNw1kGVFn5ymqpQY6/C2jhqHDma+m4KMCw=="
-            length="2326274"
-            type="application/octet-stream"
-        />
-    </item>
-
             <title>Version 1.1</title>
             <pubDate>Mon, 13 Jan 2026 22:14:17 +0530</pubDate>
             <sparkle:version>3</sparkle:version>
