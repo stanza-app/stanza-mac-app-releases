@@ -5,8 +5,8 @@
         <link>https://raw.githubusercontent.com/shebisabeen/stanza-mac-app-releases/main/appcast.xml</link>
         <description>Stanza App Updates</description>
         
-        <!-- Version 1.2.1 - Build 5 -->
-            <!-- Version 1.3 - Build 6 -->
+        
+    <!-- Version 1.3 - Build 6 -->
     <item>
         <title>Version 1.3</title>
         <pubDate>Wed, 14 Jan 2026 07:14:42 +0530</pubDate>
@@ -31,7 +31,7 @@
         />
     </item>
 
-
+    <!-- Version 1.2.1 - Build 5 -->
     <item>
             <title>Version 1.2.1</title>
             <pubDate>Wed, 14 Jan 2026 07:01:08 +0530</pubDate>
