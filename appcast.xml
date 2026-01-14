@@ -16,7 +16,11 @@
         <description><![CDATA[
             <h2>What's New in Version 1.3</h2>
             <ul>
-                <li>Update release notes here</li>
+                <li>Fixed update installer issues</li>
+                <li>Properly configured app entitlements</li>
+                <li>New monthly subscription</li>
+                <li>Improved settings page</li>
+                <li>Updated icon</li>
             </ul>
         ]]></description>
         <enclosure 
