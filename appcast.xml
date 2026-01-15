@@ -8,6 +8,28 @@
         
     <!-- Version 1.3 - Build 6 -->
         <!-- Version 1.3.1 - Build 7 -->
+        <!-- Version 1.3.2 - Build 8 -->
+    <item>
+        <title>Version 1.3.2</title>
+        <pubDate>Thu, 15 Jan 2026 22:19:43 +0530</pubDate>
+        <sparkle:version>8</sparkle:version>
+        <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
+        <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+        <description><![CDATA[
+            <h2>What's New in Version 1.3.2</h2>
+            <ul>
+                <li>Update release notes here</li>
+            </ul>
+        ]]></description>
+        <enclosure 
+            url="https://github.com/stanza-app/stanza-mac-app-releases/releases/download/v1.3.2/Stanza-v1.3.2.zip"
+            sparkle:edSignature="lFr5P82Xco64YWYIAGVT0jvohgH3yYASHkPY4CUxEyir0+alCmCILEpI/ZYAQs+yuWH+mI/ew4yiRIGSgqFnAQ=="
+            length="2326353"
+            type="application/octet-stream"
+        />
+    </item>
+
+
     <item>
         <title>Version 1.3.1</title>
         <pubDate>Wed, 14 Jan 2026 07:28:34 +0530</pubDate>
