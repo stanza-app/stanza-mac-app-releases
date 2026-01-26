@@ -8,8 +8,6 @@
         <!-- Version 1.4.1 - Build 10 -->
         <!-- Version 1.4.2 - Build 11 -->
         <!-- Version 1.4.3 - Build 12 -->
-
-
         <!-- Version 1.5.0 - Build 13 -->
         <!-- Version 1.5.1 - Build 14 -->
     <item>
@@ -21,7 +19,7 @@
         <description><![CDATA[
             <h2>What's New in Version 1.5.1</h2>
             <ul>
-                <li>Update release notes here</li>
+                <li>Added debug logs</li>
             </ul>
         ]]></description>
         <enclosure 
